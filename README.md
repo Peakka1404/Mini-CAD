@@ -82,11 +82,11 @@ The dimensions of the drawing board are counted left to right, top to bottom, fr
 - line x1 y1 x2 y2  
  với `x1, y1` và `x2, y2` là hai nút của đoạn thẳng.
 - rectangle x1 y1 x2 y2  
- với `x1, y1` và `x2, y2` là 2 đỉnh đối diện nhau của hình chữ nhật
+ với `x1, y1` và `x2, y2` là 2 đỉnh đối diện nhau của hình chữ nhật.
 - circle x y r  
- với `x, y` là tâm và `r` là bán kính hình tròn
-- color n
- để thay đổi màu vẽ theo danh sách:
+ với `x, y` là tâm và `r` là bán kính hình tròn.
+- color n  
+ để thay đổi màu vẽ theo danh sách:  
  - 0: đen
  - 1: trắng
  - 2: đỏ
@@ -103,9 +103,9 @@ The dimensions of the drawing board are counted left to right, top to bottom, fr
  - 13: lục nhạt
  - 14: lam nhạt
  - 15: bạc
-- fill x y
+- fill x y  
  để đổ màu vào phần có chứa `x, y`
-- clear 
+- clear  
  để xóa toàn bộ bảng  
   
 Các ô của bảng vẽ được đánh số thứ tự từ trên xuống dưới, từ trái sang phải, từ 0 - 255.  
