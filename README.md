@@ -86,23 +86,23 @@ The dimensions of the drawing board are counted left to right, top to bottom, fr
 - circle x y r  
  với `x, y` là tâm và `r` là bán kính hình tròn.
 - color n  
- để thay đổi màu vẽ theo danh sách:  
- - 0: đen
- - 1: trắng
- - 2: đỏ
- - 3: lục
- - 4: lam
- - 5: vàng
- - 6: đỏ tím
- - 7: xanh lơ
- - 8: cam
- - 9: tím
- - 10: nâu
- - 11: xám
- - 12: hồng
- - 13: lục nhạt
- - 14: lam nhạt
- - 15: bạc
+  để thay đổi màu vẽ theo danh sách:
+  - 0: đen
+  - 1: trắng
+  - 2: đỏ
+  - 3: lục
+  - 4: lam
+  - 5: vàng
+  - 6: đỏ tím
+  - 7: xanh lơ
+  - 8: cam
+  - 9: tím
+  - 10: nâu
+  - 11: xám
+  - 12: hồng
+  - 13: lục nhạt
+  - 14: lam nhạt
+  - 15: bạc
 - fill x y  
  để đổ màu vào phần có chứa `x, y`
 - clear  
